@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What was the exact retail price of Nile tilapia feed in Varanasi on 1 January 2026?",
+    "status": "candidate_not_yet_verified",
+    "note": "Search all four PDFs before marking this question unanswerable."
+  },
+  {
+    "id": 2,
+    "question": "What is the current market price per kilogram of Nile tilapia in Kharagpur today?",
+    "status": "candidate_not_yet_verified",
+    "note": "Search all four PDFs before marking this question unanswerable."
+  },
+  {
+    "id": 3,
+    "question": "Which individual farmer in Varanasi had the highest tilapia yield in 2025?",
+    "status": "candidate_not_yet_verified",
+    "note": "Search all four PDFs before marking this question unanswerable."
+  },
+  {
+    "id": 4,
+    "question": "What will the dissolved oxygen level in a specific pond be at 8:00 tomorrow morning?",
+    "status": "candidate_not_yet_verified",
+    "note": "Search all four PDFs before marking this question unanswerable."
+  },
+  {
+    "id": 5,
+    "question": "What is the exact electricity bill for running an aerator in a particular farm last month?",
+    "status": "candidate_not_yet_verified",
+    "note": "Search all four PDFs before marking this question unanswerable."
+  },
+  {
+    "id": 6,
+    "question": "Which brand of smartphone was used by the author to take photographs for the Nile tilapia guide?",
+    "status": "candidate_not_yet_verified",
+    "note": "Search all four PDFs before marking this question unanswerable."
+  },
+  {
+    "id": 7,
+    "question": "What is the name and personal telephone number of the owner of the largest tilapia farm in West Bengal?",
+    "status": "candidate_not_yet_verified",
+    "note": "Search all four PDFs before marking this question unanswerable."
+  },
+  {
+    "id": 8,
+    "question": "How many Nile tilapia are currently alive in a specific farm pond that is not described in the documents?",
+    "status": "candidate_not_yet_verified",
+    "note": "Search all four PDFs before marking this question unanswerable."
+  },
+  {
+    "id": 9,
+    "question": "What was the exact rainfall measured at a particular farm in Kharagpur yesterday?",
+    "status": "candidate_not_yet_verified",
+    "note": "Search all four PDFs before marking this question unanswerable."
+  },
+  {
+    "id": 10,
+    "question": "Which aquaculture company will offer the highest internship stipend next summer?",
+    "status": "candidate_not_yet_verified",
+    "note": "Search all four PDFs before marking this question unanswerable."
+  }
+]

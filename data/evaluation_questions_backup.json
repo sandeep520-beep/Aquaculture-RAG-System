@@ -1,0 +1,169 @@
+
+[
+  {
+    "id": 1,
+    "question": "What percentage of operating expenditure can feed account for in finfish and prawn culture?",
+    "relevant_sources": ["Aquaculture_Feed_Handbook.pdf.pdf"],
+    "relevant_pages": [7],
+    "reference_answer": "Feed costs normally range from 30% to 60% of operating expenditure in finfish and prawn culture systems."
+  },
+  {
+    "id": 2,
+    "question": "What factors should farmers consider when regulating the amount of feed?",
+    "relevant_sources": ["Aquaculture_Feed_Handbook.pdf.pdf"],
+    "relevant_pages": [81],
+    "reference_answer": "Farmers should consider the biomass of the cultured fish or prawns and observe their daily feed intake."
+  },
+  
+{
+  "id": 3,
+  "question": "What problems can occur when farmers supply more feed than fish or prawns consume?",
+  "relevant_sources": ["Aquaculture_Feed_Handbook.pdf.pdf"],
+  "relevant_pages": [81],
+  "reference_answer": "Overfeeding can cause feed wastage and deterioration in water quality, resulting in poor production and feed efficiency."
+},
+
+  {
+    "id": 4,
+    "question": "How can poor-quality feed affect water quality?",
+    "relevant_sources": ["Aquaculture_Feed_Handbook.pdf.pdf"],
+    "relevant_pages": [9],
+    "reference_answer": "Poor-quality feed can contribute to toxic ammonia, nitrite, hydrogen sulfide, increased BOD and COD, and lower dissolved oxygen."
+  },
+  {
+    "id": 5,
+    "question": "What should farmers do when dissolved oxygen becomes sub-optimal during feeding?",
+    "relevant_sources": ["Aquaculture_Feed_Handbook.pdf.pdf"],
+    "relevant_pages": [82],
+    "reference_answer": "Feeding should be stopped or the ration size reduced depending on the severity of the low dissolved oxygen."
+  },
+  {
+    "id": 6,
+    "question": "Which broad categories of factors affect feed efficiency and cost?",
+    "relevant_sources": ["Aquaculture_Feed_Handbook.pdf.pdf"],
+    "relevant_pages": [10],
+    "reference_answer": "Feed-dependent, animal-dependent, feeding-management-dependent, and environment-dependent factors affect feed efficiency and cost."
+  },
+  {
+    "id": 7,
+    "question": "What is meant by aquaculture according to the FAO definition quoted in the Nile tilapia guide?",
+    "relevant_sources": ["Nile_Tilapia_Best_Management_Practices.pdf.pdf"],
+    "relevant_pages": [4],
+    "reference_answer": "Aquaculture is the farming of aquatic organisms with intervention in the rearing process to enhance production."
+  },
+  {
+    "id": 8,
+    "question": "What are examples of human interventions in Nile tilapia aquaculture?",
+    "relevant_sources": ["Nile_Tilapia_Best_Management_Practices.pdf.pdf"],
+    "relevant_pages": [4],
+    "reference_answer": "Examples include manipulating spawning, breeding and stocking density, supplying dissolved oxygen through aeration, providing formulated feed, and protecting fish from predators."
+  },
+  {
+    "id": 9,
+    "question": "Which water-quality parameters are mentioned as capable of stressing aquatic organisms when they change?",
+    "relevant_sources": ["water_quality.pdf.pdf"],
+    "relevant_pages": [1],
+    "reference_answer": "The passage specifically mentions pH, temperature, and dissolved oxygen."
+  },
+  {
+    "id": 10,
+    "question": "How can aquatic animal foods contribute to communities in Africa?",
+    "relevant_sources": ["Aquaculture_Water_Quality_Management.pdf (2).pdf"],
+    "relevant_pages": [1],
+    "reference_answer": "The report describes aquatic animal foods as important for nutrition and says the sector supports livelihoods."
+  },
+
+  {
+    "id": 11,
+    "question": "How can unconsumed feed affect water quality?",
+    "relevant_sources": ["Aquaculture_Feed_Handbook.pdf.pdf"],
+    "relevant_pages": [68],
+    "reference_answer": "Unconsumed feed may negatively affect water quality."
+  },
+
+  {
+    "id": 12,
+    "question": "What benefits can half-satiation feeding provide for Nile tilapia in the situation described?",
+    "relevant_sources": ["Nile_Tilapia_Best_Management_Practices.pdf.pdf"],
+    "relevant_pages": [43],
+    "reference_answer": "In the situation described, half-satiation rations can lower feed cost and environmental pollution."
+  },
+
+  {
+    "id": 13,
+    "question": "How do water temperature, salinity, and depth affect dissolved oxygen levels?",
+    "relevant_sources": ["water_quality.pdf.pdf"],
+    "relevant_pages": [5],
+    "reference_answer": "The solubility of oxygen decreases as temperature and salinity increase. Dissolved oxygen also decreases as depth increases."
+  },
+
+  {
+    "id": 14,
+    "question": "What methods can farmers use to address low dissolved oxygen in Nile tilapia ponds?",
+    "relevant_sources": ["Nile_Tilapia_Best_Management_Practices.pdf.pdf"],
+    "relevant_pages": [58],
+    "reference_answer": "Farmers can reduce phytoplankton density, exchange pond water, remove accumulated sludge and nutrients using a submersible pump, or use an aerator to increase oxygen concentration."
+  },
+
+{
+  "id": 15,
+  "question": "Why is it important to maintain low ammonia levels in Nile tilapia ponds?",
+  "relevant_sources": [
+    "Nile_Tilapia_Best_Management_Practices.pdf.pdf"
+  ],
+  "relevant_pages": [58],
+  "reference_answer": "Ammonia is a toxic metabolite in fishponds, so its level should be kept low to protect Nile tilapia."
+},
+
+{
+  "id": 16,
+  "question": "How does maintaining adequate dissolved oxygen affect feeding and growth in Nile tilapia?",
+  "relevant_sources": [
+    "Nile_Tilapia_Best_Management_Practices.pdf.pdf"
+  ],
+  "relevant_pages": [56],
+  "reference_answer": "Maintaining dissolved oxygen above 4 mg/L supports the best growth rate in Nile tilapia. Low dissolved oxygen can reduce feeding."
+},
+
+{
+  "id": 17,
+  "question": "What water-quality conditions should farmers monitor to maintain a healthy Nile tilapia pond?",
+  "relevant_sources": [
+    "Nile_Tilapia_Best_Management_Practices.pdf.pdf"
+  ],
+  "relevant_pages": [56],
+  "reference_answer": "Farmers should monitor water-quality parameters such as temperature, pH, alkalinity, ammonia and nitrite. Maintaining good water quality reduces stress, supports fish growth and helps fish resist disease."
+},
+
+{
+  "id": 18,
+  "question": "What water temperature is best for Nile tilapia feeding and growth?",
+  "relevant_sources": [
+    "Nile_Tilapia_Best_Management_Practices.pdf.pdf"
+  ],
+  "relevant_pages": [56],
+  "reference_answer": "Nile tilapia eat and grow best at 30°C and can tolerate a temperature range of 18°C to 33°C."
+},
+
+{
+  "id": 19,
+  "question": "How can water exchange improve water quality in Nile tilapia ponds?",
+  "relevant_sources": [
+    "Nile_Tilapia_Best_Management_Practices.pdf.pdf"
+  ],
+  "relevant_pages": [18],
+  "reference_answer": "Water exchange can improve dissolved oxygen and flush out harmful substances such as undigested food, feces, ammonia, nitrite and nitrates. The required frequency depends on water availability, cost and the culture system."
+},
+
+{
+  "id": 20,
+  "question": "How can poor water quality affect the health and growth of Nile tilapia?",
+  "relevant_sources": [
+    "Nile_Tilapia_Best_Management_Practices.pdf.pdf"
+  ],
+  "relevant_pages": [56],
+  "reference_answer": "Poor water quality reduces growth and adversely affects fish health. It can cause stress, weaken the fish's ability to resist pathogenic bacteria, and contribute to disease."
+}
+]
+
+
