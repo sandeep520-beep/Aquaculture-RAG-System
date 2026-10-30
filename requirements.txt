@@ -1,0 +1,6 @@
+chromadb
+sentence-transformers
+ollama
+pandas
+PyMuPDF
+streamlit
